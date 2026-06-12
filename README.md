@@ -144,13 +144,5 @@ They are entry points and format checks, not bundled third-party training code.
 
 The full multiview RGB sequences, complete manually annotated evaluation frames, full RAP-FSAM3 masks, complete phenotypic measurement tables, view-weight files and run configurations will be released after curation through this repository or an associated data repository. Before public release, they are available from the corresponding author upon reasonable request.
 
-## Citation
 
-```bibtex
-@article{foresplat2026,
-  title   = {ForeSplat: Vision-Foundation-Model-Guided Foreground-Object 2D Gaussian Splatting for Low-Cost 3D Plant Phenotyping},
-  author  = {Author list to be updated},
-  journal = {Computers and Electronics in Agriculture},
-  year    = {2026}
-}
 ```
